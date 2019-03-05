@@ -173,4 +173,6 @@ begin
 	if i<>1 then write('*x^',i-1);
 	if i<>m+1 then write(' + ');
 	end;
+
+    readln();
 end.
